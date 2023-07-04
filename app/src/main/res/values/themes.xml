@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Baluev_pr15_mobil_tv" parent="@style/Theme.Leanback" />
+</resources>
